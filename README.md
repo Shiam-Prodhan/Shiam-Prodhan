@@ -23,7 +23,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiam-Prodhan)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiam-Prodhan)](https://github.com/anuraghazra/github-readme-stats)![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shiam-Prodhan&show_icons=true)  
 
 
 [instagram]: https://www.instagram.com/mr_prodhan_/

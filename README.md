@@ -2,6 +2,7 @@
 
 ## I have completed my Bachelors Degree in CSE at the University of Liberal Arts Bangladesh !!
 
+- 🔭 Currently working as Teaching Assistant at ULAB CSE Deparatment
 - 🔭 Currently working on an android app development project
 - 🌱 Running an online educational platform [TechTrix][techtrix]
 - 👯 Google Site: https://sites.google.com/view/shiam-prodhan

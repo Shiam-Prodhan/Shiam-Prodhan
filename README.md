@@ -1,6 +1,6 @@
 # Hi there, I'm Shiam Prodhan 👋
 
-## I am doing my Bachelors Degree in CSE at the University of Liberal Arts Bangladesh !!
+## I have completed my Bachelors Degree in CSE at the University of Liberal Arts Bangladesh !!
 
 - 🔭 Currently working on an android app development project
 - 🌱 Running an online educational platform [TechTrix][techtrix]

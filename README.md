@@ -1,6 +1,6 @@
 # Hi there, I'm Shiam Prodhan 👋
 
-## 👨‍💻 Software Engineer | Android Developer | Tech Educator
+## 👨‍💻 Software Engineer | Fintech | Tech Enthusiast
 
 I completed my Bachelor's Degree in Computer Science and Engineering from the University of Liberal Arts Bangladesh (ULAB). I’m passionate about building impactful software, sharing knowledge, and constantly learning.
 

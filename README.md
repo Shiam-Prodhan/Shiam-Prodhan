@@ -1,14 +1,33 @@
 # Hi there, I'm Shiam Prodhan 👋
 
-## I have completed my Bachelors Degree in CSE at the University of Liberal Arts Bangladesh !!
+## 👨‍💻 Software Engineer | Android Developer | Tech Educator
 
-- 🔭 Currently working as Teaching Assistant at ULAB CSE Deparatment
-- 🔭 Currently working on an android app development project
-- 🌱 Running an online educational platform [TechTrix][techtrix]
-- 👯 Google Site: https://sites.google.com/view/shiam-prodhan
-- 🥅 Email Me at - shiam.prodhan.98@gmail.com
-- ⚡ Fun fact: I love to teach and learn new things.
+I completed my Bachelor's Degree in Computer Science and Engineering from the University of Liberal Arts Bangladesh (ULAB). I’m passionate about building impactful software, sharing knowledge, and constantly learning.
+
 ---
+
+### 💼 Currently Working At:
+**Senior Software Engineer** at **ADN Technologies Limited**
+
+#### Key Responsibilities & Achievements:
+- Led the development of financial software, managing a team of three engineers and ensuring timely, high-quality deliveries.
+- Deployed and managed an API-based International Recharge Service for major telecom operators including Grameenphone, Banglalink, Airtel, and Robi.
+- Collaborated with multiple banks — Eastern Bank Ltd. (EBL), UCBL, DBBL, and IBBL — to develop POS applications supporting major payment networks such as Visa, MasterCard, Diners Club, and UPI.
+- Assisted in the development of an IoT device for the TRP project at Bangladesh Satellite Company Limited (BSCL), enhancing data collection and monitoring capabilities.
+- Collaborated with bKash and led the development of IoT Soundbox to optimize transaction processes and improve the overall user experience.
+
+---
+
+### 🌐 More About Me:
+- 🌍 [My Google Site](https://sites.google.com/view/shiam-prodhan)  
+- 📧 Email: shiam.prodhan.98@gmail.com  
+- ⚡ Fun Fact: I love to teach and learn new things — always exploring something new!
+
+---
+
+Thanks for visiting my profile! Feel free to connect or collaborate on any exciting tech ideas. Let's build something amazing together 🚀
+
+
 ### Connect with me:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Shiam-Prodhan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shiam-prodhan-270498/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Shiam.Prodhan.3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mrprodhanwho/)  
@@ -24,7 +43,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiam-Prodhan)](https://github.com/anuraghazra/github-readme-stats)             ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shiam-Prodhan&show_icons=true)  
 
 
-[instagram]: https://www.instagram.com/mr_prodhan_/
+[instagram]: https://www.instagram.com/mrprodhanwho/
 [linkedin]: https://www.linkedin.com/in/shiam-prodhan-270498/
 [techtrix]: https://mrpordhansweb.com
 [facebook]: https://facebook.com/shiam.prodhan.3

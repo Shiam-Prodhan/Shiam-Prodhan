@@ -97,7 +97,7 @@ I'm currently a **Senior Software Engineer** at **ADN Technologies Limited**, wh
 | **SRIM - Service Repair & Inventory** | Service repair workflow and inventory tracking software | Laravel | [inv.adntechnologies.net](https://inv.adntechnologies.net) |
 | **AMSASCOM FZCO** | Corporate website for Amasas | Laravel | [amsascom.ae](https://amsascom.ae) |
 | **ADATANET** | Corporate website for A Data Net | Laravel | [adatanet.net](https://www.adatanet.net/) |
-| **Shokal Shondha News Portal** | News portal & CMS | Laravel | [shokalshonda.com](https://shokalshonda.com) |
+| **Shokal Shondha News Portal** | News portal & CMS | Laravel | [shokalshondha.com](https://shokalshondha.com) |
 | **Biniyougbarta News Portal** | News portal & CMS | Laravel | [biniyougbarta.com](https://biniyougbarta.com) |
 | **The Wave 24 News Portal** | News portal & CMS | Laravel | [thewave24.com](https://thewave24.com) |
 
